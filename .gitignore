@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files
+budget_data.json
+
+# Generated reports
+*.png
